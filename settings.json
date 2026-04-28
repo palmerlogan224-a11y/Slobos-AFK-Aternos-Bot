@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalmcgg123.aternos.me"
+    "ip": "survivalmcgg123.aternos.me",
     "port": 31446,
     "version": "",
     "try-creative": false
